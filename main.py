@@ -21,7 +21,7 @@ class ZaunBot:
         返回所有通用的骂人的话
         @return:
         """
-        answers = list(map(lambda x: x.content, self.corpora))
+        answers = list(map(lambda x: x['content'], filter(lambda x: x['generic'] is True, self.corpora)))
         return answers
 
     def get_one_generic_answer(self) -> str:
@@ -42,3 +42,5 @@ class ZaunBot:
 
 if __name__ == '__main__':
     print(ZaunBot().corpora)
+    print(ZaunBot().list_generic_answer())
+    print(ZaunBot().get_one_generic_answer())
