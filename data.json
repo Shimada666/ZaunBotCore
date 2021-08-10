@@ -1,8 +1,13 @@
-[
-  {"weight": 1, "keywords": [], "generic": true, "content": "我操你妈信不信我今晚就去你妈坟头蹦迪?"},
-  {"weight": 0.9, "keywords": [], "generic": true, "content": "操你妈你个傻逼篮子狗东西"},
-  {"weight": 0.2, "keywords": ["狗东西"], "generic": false, "content": "狗东西骂谁？"},
-  {"weight": 0.3, "keywords": [], "generic": true, "content": "我叼你老母"},
-  {"weight": 0.65, "keywords": ["你妈死了"], "generic": false, "content": "你妈才死了，傻逼玩意"},
-  {"weight": 1, "keywords": ["傻屌"], "generic": false, "content": "我他妈就是用这根屌生的你这个崽种，弱智玩意吃屎去吧你"}
-]
+{
+  "baseKeywords": ["nm","sb","你妈","哈批","弱智","睿智"],
+  "corpus": [
+    {"weight": 1, "keywords": [], "generic": true, "content": "我操你妈信不信我今晚就去你妈坟头蹦迪?"},
+    {"weight": 0.9, "keywords": [], "generic": true, "content": "操你妈你个傻逼篮子狗东西"},
+    {"weight": 0.2, "keywords": ["狗东西"], "generic": false, "content": "狗东西骂谁？"},
+    {"weight": 0.3, "keywords": [], "generic": true, "content": "我叼你老母"},
+    {"weight": 0.65, "keywords": ["你妈死了"], "generic": false, "content": "你妈才死了，傻逼玩意"},
+    {"weight": 0.7, "keywords": [], "generic": true, "content": "不会骂别骂，傻逼玩意"},
+    {"weight": 0.6, "keywords": [], "generic": true, "content": "鲨b，你家户口本就一页吧？"},
+    {"weight": 1, "keywords": ["傻屌"], "generic": false, "content": "我他妈就是用这根屌生的你这个崽种，弱智玩意吃屎去吧你"}
+  ]
+}
