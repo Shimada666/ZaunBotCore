@@ -1,0 +1,8 @@
+[
+  {"weight": 1, "keywords": [], "generic": true, "content": "我操你妈信不信我今晚就去你妈坟头蹦迪?"},
+  {"weight": 0.9, "keywords": [], "generic": true, "content": "操你妈你个傻逼篮子狗东西"},
+  {"weight": 0.2, "keywords": ["狗东西"], "generic": false, "content": "狗东西骂谁？"},
+  {"weight": 0.3, "keywords": [], "generic": true, "content": "我叼你老母"},
+  {"weight": 0.65, "keywords": ["你妈死了"], "generic": false, "content": "你妈才死了，傻逼玩意"},
+  {"weight": 1, "keywords": ["傻屌"], "generic": false, "content": "我他妈就是用这根屌生的你这个崽种，弱智玩意吃屎去吧你"}
+]
